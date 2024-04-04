@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "mikestead.dotenv",
+    "standard.vscode-standard"
+  ]
+}
